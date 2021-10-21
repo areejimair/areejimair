@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @areejimair
+- 👀 I’m interested in Backend Development
